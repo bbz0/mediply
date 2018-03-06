@@ -4,3 +4,4 @@ public/js/jquery/
 public/js/bootstrap/
 public/img/
 package-lock.json
+.env
